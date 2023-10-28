@@ -1,0 +1,11 @@
+/* 
+table th,
+table td {
+  border: 1px solid #000000;
+}
+table th{
+    color: #000000 !important;
+}
+.date-formate-span{
+    color:gray !important;
+} */

@@ -1,0 +1,9 @@
+.sc-header>span>i {
+    font-size: 20px;
+    margin: 1rem;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

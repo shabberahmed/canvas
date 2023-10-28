@@ -1,0 +1,17 @@
+.sc-header>span>i {
+    font-size: 20px;
+    margin: 1rem;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.col-auto>select{
+    background-color: white !important;
+    border: none !important;
+    width: 210px !important;
+    height: 2.5rem !important;
+}

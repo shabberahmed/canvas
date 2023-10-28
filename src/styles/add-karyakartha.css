@@ -1,0 +1,62 @@
+.addkaryakartha-container{
+    width:100%;
+    height:100%;
+    background-color: #fff;
+}
+.container>.form-text{
+    width: 50%;
+    height: 10%;
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    margin-left: 15rem;
+    margin-top: 3rem;
+    text-align: center;
+    padding: 1rem;
+}
+.form-text>h2{
+    font-size: 40px;
+    font-family: 'Average Sans', sans-serif;
+}
+.form-group{
+    margin-top: 1rem !important;
+}
+
+.form-group-label{
+    font-size: 30px !important;
+}
+
+.form-group>.col-sm-10>input{
+    width: 29rem !important;
+    height: 4rem !important;
+    background-color:#D9D9D9 ;
+    outline: none !important;
+}
+
+.form-group>.col-sm-10>select{
+    width: 29rem !important;
+    height: 4rem !important;
+    background-color:#D9D9D9 ;
+    outline: none !important;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+}
+
+.add-karyakartha-btn{
+    margin-top: 3rem;
+    width: 29rem !important;
+    height: 6rem !important;
+    border: none !important;
+    background: linear-gradient(180deg, #DE1ED6 0%, #FFFFFF 100%);
+    border-radius: 3rem !important;
+    margin-bottom: 3rem;
+    margin-left: 20rem;
+    color: #fff !important;
+    font-size: 30px !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

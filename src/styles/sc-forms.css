@@ -1,0 +1,22 @@
+
+.sc-form-btns {
+    margin-top: 2rem;
+    width: 300px !important;
+    height: 100px !important;
+    border-radius: 10px !important;
+    background: #2E4E6B !important;
+    color: #FFFFFF !important;
+    font-family: Inter !important;
+    font-size: 28px !important;
+    font-weight: 400 !important;
+    line-height: 34px !important;
+    letter-spacing: 0em !important;
+    text-align: center !important;
+}
+
+.sc-form-btns-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}

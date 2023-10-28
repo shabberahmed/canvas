@@ -1,0 +1,23 @@
+.gender-select-container{
+    display: flex;
+    align-items: center;
+}
+.gender-select {
+    width: 10rem !important;
+    height: 3rem !important;
+    border-radius: 5px;
+    border: 1px;  
+    margin-left: 3rem;
+}
+.date-input-container{
+    display: flex;
+    align-items: center;
+}
+
+.date-input{
+    width: 10rem !important;
+    border-radius: 5px;
+    border: 1px;  
+    margin-left: 0.5rem;
+
+}
